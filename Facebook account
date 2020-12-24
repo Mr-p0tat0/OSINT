@@ -1,0 +1,19 @@
+# OSINT for account Facebook
+
+1. graph.tips - allows you to view how the publications put huskies user
+ 
+2. whopostedwhat.com - find posts in Facebook
+3. fb-the sleep-the stats (t) - monitors the online / offline status of people, you can get accurate information about the time of their sleep
+4. lookup-id.com - will account ID
+5. keyhole.co (r) - account analysis, no checks on the email and the phone at registration, enter any data, 7 days free of charge
+6. archive.org - show zipped version of account
+7.@usersbox_bot - the bot will find VK accounts with the desired login in the facebook field, enter 8. @GetPhone_bot - will find the phone number in its database Search via URL 1 . https://www.facebook.com/browse/fanned_pages/?id=USERID - will find user likes, replace with account ID 2. https://facebook.com/friendship/USERID/USERID - mutual friends, general records will be displayed and photos, as well as any other related data such as hometowns, schools, etc., replace with Account ID 3.facebook: <Login>
+
+USERID 
+
+USERID
+
+https://facebook.com/browse/mutual_friends/?uid=USERID&node=USERID - will find mutual friends who have public lists of friends, if one of the searched users has a public list of friends, replace USERIDwith account ID
+Search via URL
+
+4. https : //my.mail.ru/fb/USERID - will find an account on My World, replace USERID in the link with the account ID
